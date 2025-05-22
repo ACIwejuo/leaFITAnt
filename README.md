@@ -25,11 +25,4 @@ leaFIT is a project developed to automate plant maintenance using embedded syste
 This project was developed with resources by **Group 2 – leaFIT** for the CPE 4850 Senior Design course at Kennesaw State University.  
 Lead PM: Luis Mercado  
 Additional contributors: Anthony Iwejuo,  Saville Atkins ll, Julian Pitts, Rachnicha Rojjhanarittikorn
-
-## 📜 License
-
-[MIT License](LICENSE)
-
----
-
-> "Combining nature and tech to make plant care effortless—one drop at a time." 🌱
+tech to make plant care effortless—one drop at a time." 🌱
